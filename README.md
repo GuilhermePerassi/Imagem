@@ -26,3 +26,7 @@ inicio
 	fimenquanto
   
 fim
+
+# FLUXOGRAMA
+
+![Fluxograma Imagem](https://github.com/GuilhermePerassi/Imagem/blob/09d0a860bdc193815dcf70861ce8ba91e4c1e26e/Fluxograma%20imagem.png)
